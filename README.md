@@ -1,5 +1,5 @@
 # 💫 About Me:
-An enthusiastic data science<br>NLP,CV,DL,RL
+Data Science Enthusiast !!<br>NLP,CV,DL,RL
 
 
 ## 🌐 Socials:
